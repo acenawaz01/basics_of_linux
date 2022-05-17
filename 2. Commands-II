@@ -1,0 +1,30 @@
+df - disk free | Show free disk space
+Synxtax: 
+df 
+df -h
+
+du - disk usage | Show disk used by a directory or file
+Syntax:
+du
+du -h
+
+ps - shows the process which are running
+Syntax:
+ps
+
+top -- to be covered later
+
+echo -- to be covered later
+
+head - shows n files from the top in a file
+Syntax: 
+head -n <filename>
+
+tail - shows n files from the bottom in a file
+Syntax:
+tail -n <filename>
+
+clear - clears the screen
+
+chmod -- to be covered later
+chown -- to be covered later
