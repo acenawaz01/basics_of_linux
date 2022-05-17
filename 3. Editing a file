@@ -1,0 +1,14 @@
+We use vi to edit the file.
+We can also use vi to create a file and then edit it , if it does not exist.
+
+Steps:
+vi <filename>  
+Above command will open editor to edit the file
+
+Press i 
+Above command will change to insert mode
+
+Now you can enter whatever you want in the file.
+
+Press <escape>:wq
+Above command will save and exit the file
