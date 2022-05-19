@@ -2,7 +2,7 @@
 
 2. Go to / location and search if directory with name "opt" exists or not.
 
-3. Create a file test.txt in current path with below content.
+3. Create a file test.txt in the path /home/ec2-user with below content.
 
 OpenSSL is a versatile command line tool that can be used in for a large variety of tasks related to 
 Public Key Infrastructure (PKI) and HTTPS (HTTP over TLS). This do cheat sheet in style guide provides
