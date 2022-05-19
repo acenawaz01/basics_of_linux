@@ -1,0 +1,35 @@
+1. Get list of all the processes.
+
+2. Go to / location and search if directory with name "opt" exists or not.
+
+3. Create a file test.txt in current path with below content.
+
+OpenSSL is a versatile command line tool that can be used in for a large variety of tasks related to 
+Public Key Infrastructure (PKI) and HTTPS (HTTP over TLS). This do cheat sheet in style guide provides
+a quick reference to OpenSSL commands that are useful in common, everyday scenarios. 
+This includes OpenSSL examples for generating private keys, 
+certificate signing requests, and certificate format conversion. It does not cover all of the uses of OpenSSL.
+
+4. Search if the word tool exists inside test.txt or not
+5. Search if the word "do" exists inside test.txt or not. It should not search "does" only "do"
+6. Show all lines that do not contain "in"
+
+7. Find number of lines in test.txt
+8. Copy the content of test.txt to test2.txt
+9. Check the free memory on the server. Copy the content to a file called memory.txt.
+9. Check disk free on the server. Copy the content to a file called storage.txt.
+10. Find the process taking maximum memory.
+11. Find the process taking maximum CPU utilization.
+12. Find the output of the command whoami and hostname.
+13. Create a file "permission.txt". Change the permission of the file so that only you can read, write or execute it.
+14. Create a directory p. Go inside the directory. Create files f1.txt, f2.txt, f3.txt.
+Change the permission of the directory so that anyone can read, write or execute it.
+15. Count number of processes that are running.
+16. Count number of processes that are running by root.
+17. Find the size of file test.txt craeted in step 3 using du command.
+18. Copy the directory p and create a new directory q with same files.
+19. There is a file attached in this github repository called sample.log. Create a new file with same name and copy the content of the log to the file.
+20. Write a command to show the top 10 lines of the log.
+21. Write a command to show the last 10 lines of the log.
+22. Write a command to search for ERROR in the log.
+23. Write a command to search for WARN in the log.
