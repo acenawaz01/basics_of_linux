@@ -1,10 +1,22 @@
-ls
-mkdir
-cp
+pwd 
+- present working directory. It will give you path.
+
+ls -ltr 
+- show all files and directory.
+
+cd - to change directory
+cd <path>
+
+hostname - to get name of host
+
+clear - to clear screen
+
+mkdir - make directory
+
+cp - copy files
+
 rm
 touch
 mv
-pwd
-cd
 cat
 grep
