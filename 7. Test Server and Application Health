@@ -1,0 +1,10 @@
+1. Login to Server
+2. Check Server Health
+  a. Check storage in each drive
+  b. Find the file in /home/ec2-user that is taking maxium space.
+  c. Check memory status on the server.
+  d. Find the process id that is taking maximum memory.
+  e. Find the process id that is taking maximum CPU utilization.
+  f. Find the process command that is running from process id (in step d and e)
+3. Check Application Health
+  a. Check 
