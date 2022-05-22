@@ -15,8 +15,16 @@ mkdir - make directory
 
 cp - copy files
 
-rm
-touch
-mv
+rm - remove a file and directory
+
+touch - creates a file
+
+vi file.tx -- edit file
+Save and Exit -- ESC:wq
+Dont save and Exit -- ESC:q!
+
 cat
+
+mv
+
 grep
