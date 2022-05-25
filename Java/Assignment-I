@@ -1,0 +1,11 @@
+1. Write a program to subtract two numbers.
+2. Write a program to multiply two numbers.
+3. Write a program to subtract three numbers.
+4. Write a program to multiply three numbers.
+5. Write a program to print quotient of two numbers (for example 10 divided by 5 -- so it should print two)
+6. Write a program to print below lines.
+We are studying Java.
+Java is fun to learn.
+We are experts in Java.
+
+You can take any ranadom two numbers. It should print meaningful result like "Sum is 10" and not just 10.
