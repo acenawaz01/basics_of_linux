@@ -1,5 +1,5 @@
 pwd 
-- present working directory. It will give you path.
+-- present working directory. It will give you path.
 
 ls -ltr 
 - show all files and directory.
